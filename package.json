@@ -1,13 +1,13 @@
 {
-  "name": "whatsapp-bot",
+  "name": "Zero-botz",
   "version": "2.0.0",
-  "description": "Halo sesama pengguna, <b>whatsapp-bot</b> adalah skrip otomatisasi whatsapp atau lebih seperti bot yang merespons kata kunci tertentu dan beberapa fitur lain yang sedang kami kerjakan.",
+  "description": "Halo sesama pengguna, <b>Zero-Botz/b> adalah skrip otomatisasi whatsapp atau lebih seperti bot yang merespons kata kunci tertentu dan beberapa fitur lain yang sedang kami kerjakan.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mhank BarBar",
+  "author": "Zanganzz_",
   "license": "Apache-2.0",
   "dependencies": {
     "@open-wa/wa-automate": "^3.0.16",
@@ -35,13 +35,16 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mhankbarbar/whatsapp-bot.git"
+    "url": "git+https://github.com/Zanganss/ZeroBotz.git"
   },
   "keywords": [
-    "Whatsapp-Bot"
+    "Zero botz"
   ],
   "bugs": {
-    "url": "https://github.com/mhankbarbar/whatsapp-bot/issues"
+    "url": "https://github.com/Zanganss/ZeroBotz/issues"
   },
-  "homepage": "https://github.com/mhankbarbar/whatsapp-bot#readme"
+  "homepage": "https://github.com/Zanganss/ZeroBotz#Redme"
+    
+ 
+  
 }
